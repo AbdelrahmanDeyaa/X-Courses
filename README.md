@@ -8,10 +8,6 @@ A modern and responsive website for offering online courses, allowing users to s
 
 [link Draw Database](https://drawsql.app/teams/yousef-hany-1/diagrams/e-learning)
 
-## Explain Project
-
-[link video](https://drive.google.com/drive/folders/1x8FhD-I-WH7ei1iAr0wtPAWflpF3YOUj?usp=drive_link)  
-
 ## works in project 
 
    # Yousef Hani Mohamed
