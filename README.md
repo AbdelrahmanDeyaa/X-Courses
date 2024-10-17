@@ -126,6 +126,15 @@ Feel free to submit pull requests or issues for improving the website. We welcom
     └── .env                    # Environment file for sensitive data (database credentials, etc.)
 ```
 
+## 📞 **Contact Us**
+Do you have any questions or feedback? Reach out to us through any of the following channels:
+
+- **Email:** abdodiaa.hosting@gmail.com ✉️
+- **LinkedIn:** (www.linkedin.com/in/abdelrahman-deyaa-3a42b5283) 🔗
+- **Facebook:** (https://www.facebook.com/programmers.idea) 📱
+- **Website:** (https://programmersidea.whf.bz/) 🌐
+
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
